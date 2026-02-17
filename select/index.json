@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "New Divide",
+  "base_artist": "Linkin Park",
+  "createdAt": "2026-02-17T11:49:40.180031Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "New Divide",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/01_New_Divide_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "New Divide (Instrumental Version)",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/02_New_Divide_(Instrumental_Version)_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "New Divide - Live",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/03_New_Divide_-_Live_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "New Divide (Live)",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/04_New_Divide_(Live)_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "New Divide [Live]",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/05_New_Divide_[Live]_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "New Divide",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/06_New_Divide_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "New Divide",
+      "artist": "J2 feat. Avery",
+      "has_synced": true,
+      "path": "select/07_New_Divide_J2_feat._Avery.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "New Divide (Feat. Avery)",
+      "artist": "J2",
+      "has_synced": true,
+      "path": "select/08_New_Divide_(Feat._Avery)_J2.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "New Divide",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/09_New_Divide_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "New Divide - Instrumental",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/10_New_Divide_-_Instrumental_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "New Divide (One More Light Live)",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/11_New_Divide_(One_More_Light_Live)_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "New Divide",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/12_New_Divide_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "New Divide - Live from iTunes Festival",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/13_New_Divide_-_Live_from_iTunes_Festival_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "New Divide (Live From Itunes Live: London Festival 2011)",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/14_New_Divide_(Live_From_Itunes_Live__London_Festival_2011)_Linkin_Park.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "New Divide",
+      "artist": "LINKIN PARK",
+      "has_synced": false,
+      "path": "select/pl_01_New_Divide_LINKIN_PARK.txt"
+    }
+  ]
+}
